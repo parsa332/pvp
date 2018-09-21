@@ -9,7 +9,7 @@ Channels :
 ob_start();
 $admin = '581956880';//add_sudo
 $idchannel = "telexbeta";//add_id_channel
-define('API_KEY','609561106:AAFrRJP9cEyS8UDohCL8FWFFClYMJf6HSyY');//add_token
+define('API_KEY','609561106:AAFJuRCk1Zyd4sshLxKlieIVMS33k19rAYo');//add_token
 $bot_support = "@cisco_root";//add_bot_support
 
 mkdir("other");
