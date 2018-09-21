@@ -7,10 +7,10 @@ Channels :
 @PHP_School
 */
 ob_start();
-$admin = 'SUDO';//add_sudo
-$idchannel = "CHANNEL ID";//add_id_channel
-define('API_KEY','TOKEN');//add_token
-$bot_support = "@USERNAME";//add_bot_support
+$admin = '581956880';//add_sudo
+$idchannel = "telexbeta";//add_id_channel
+define('API_KEY','609561106:AAFrRJP9cEyS8UDohCL8FWFFClYMJf6HSyY');//add_token
+$bot_support = "@cisco_root";//add_bot_support
 
 mkdir("other");
 mkdir("other/setting");
